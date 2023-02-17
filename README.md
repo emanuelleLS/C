@@ -1,1 +1,2 @@
-# ExResolvidosemC
+# Exercícios Resolvidos em C
+
